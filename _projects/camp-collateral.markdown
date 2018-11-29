@@ -1,7 +1,6 @@
 ---
 title: CAMP Collateral
 date: 2018-11-29 19:04:00 Z
-featured_image: "/uploads/CAMP%20FINAL-cddc73.pdf"
 ---
 
 **Client:** EWU College Assistant Migrant Program
