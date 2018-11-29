@@ -31,7 +31,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'http://instagram.com/jessiemaliadesigns'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -48,13 +48,13 @@ social_settings:
   deviantart_url: ''
   github_url: ''
   reddit_url: ''
-  flickr_url: ''
+  flickr_url: 'https://www.flickr.com/people/151612500@N05/'
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/jessie-coney-631569116'
 
 color_settings:
   background_color: '#ffffff'
@@ -62,7 +62,7 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#ee983d'
+  accent_color: '#49ecd7'
   border_color: '#f7d7b6'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
