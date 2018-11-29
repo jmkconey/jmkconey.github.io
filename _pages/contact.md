@@ -6,6 +6,5 @@ description: Simples is a super simple blogging theme for Jekyll.
 featured_image: "/images/demo/demo-landscape.jpg"
 ---
 
+If you would like to contact me please fill out the form below and I will get back to you as soon as possible!
 {% include contact-form.html %}
-
-We've made a contact form that you can use with [Formspree](https://formspree.io/) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
