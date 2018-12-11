@@ -39,7 +39,7 @@ defaults:
     subtitle: 
     featured_image: 
     excerpt: 
-site: Web 3 Theme
+site: Jessie MK Coney
 markdown: kramdown
 kramdown:
   input: GFM
