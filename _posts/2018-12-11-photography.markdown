@@ -11,4 +11,6 @@ date: 2018-12-11 23:15:00 Z
     <img src="/uploads/Branden_1.jpg">
     <img src="/uploads/Kealapua_1.jpg">
     <img src="/uploads/Kealapua_7.jpg">
+    <img src="/uploads/IMG_3458.JPG">
+    <img src="/uploads/IMG_3528%20copy.JPG">
 </div>
