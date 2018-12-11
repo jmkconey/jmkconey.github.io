@@ -7,4 +7,4 @@ featured_image: "/images/demo/demo-landscape.jpg"
 
 ![](/images/demo/demo-landscape.jpg)
 
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+Thank you for filling out the form. I will get back to you as soon as possible. Mahalo!
