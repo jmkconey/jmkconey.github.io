@@ -1,5 +1,5 @@
 ---
-title: Travis Pattern & Foundry Catalog Re-design
+title: Travis Pattern & Foundry Catalog
 date: 2018-12-11 20:15:00 Z
 featured_image: "/uploads/Travis-19fac6.png"
 excerpt: Travis Pattern and Foundry is an engineering company who produces a catalog
