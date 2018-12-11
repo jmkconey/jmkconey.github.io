@@ -2,6 +2,7 @@
 title: S.M.A.R.T. Logo
 date: 2018-11-29 19:40:00 Z
 featured_image: "/uploads/SMART_RedFinalai.jpg"
+excerpt: Eastern Washington Universityʻs S.M.A.R.T program logo
 ---
 
 **Client:** EWU Student Research & Creative Works Symposium
